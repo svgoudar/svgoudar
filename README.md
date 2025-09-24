@@ -22,8 +22,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svgoudar&layout=compact&theme=radical)
 
 ## 📊 My GitHub Articles
-[Learn ML Foundation](https://svgoudar.github.io/ML_Foundation_Handbook)
-[Learn ML and NLP](https://svgoudar.github.io/Learn-ML-and-NLP)
+[Learn ML Foundation](https://svgoudar.github.io/ML_Foundation_Handbook)  
+[Learn ML and NLP](https://svgoudar.github.io/Learn-ML-and-NLP)  
 
 ---
 
