@@ -20,7 +20,9 @@
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=svgoudar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svgoudar&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=svgoudar&theme=radical)
+
+## 📊 GitHub Articles
+![Learn ML and NLP](https://svgoudar.github.io/Learn-ML-and-NLP/introduction.html) 📝
 
 ---
 
