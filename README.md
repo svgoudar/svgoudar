@@ -2,9 +2,9 @@
 
 💻 **Python Developer | Django Developer | Cloud & Data Enthusiast**  
 
-🔹 Skilled in Django, Python, AWS, SQL, MongoDB, Machine Learning.
-🔹 Passionate about building scalable web apps, data-driven solutions.
-🔹
+🔹 Skilled in Django, Python, AWS, SQL, MongoDB, Machine Learning
+🔹 Passionate about building scalable web apps, data-driven solutions
+
 
 
 ---
