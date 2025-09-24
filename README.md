@@ -1,4 +1,4 @@
-# Hi, I'm [Sanjeev V Goudar] 👋
+# Hi, I'm _Sanjeev V Goudar_ 👋
 
 💻 **Python Developer | Django Developer | Cloud & AI Enthusiast**  
 
