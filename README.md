@@ -1,9 +1,11 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Sanjeev V Goudar] 👋
 
-💻 **IT Engineer | Django Developer | Cloud & Data Enthusiast**  
+💻 **Python Developer | Django Developer | Cloud & Data Enthusiast**  
 
-🔹 Skilled in Django, Python, AWS, SQL, MongoDB, Machine Learning  
-🔹 Passionate about building scalable web apps, data-driven solutions, and cloud automation  
+🔹 Skilled in Django, Python, AWS, SQL, MongoDB, Machine Learning.
+🔹 Passionate about building scalable web apps, data-driven solutions.
+🔹
+
 
 ---
 
@@ -18,19 +20,13 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=svgoudar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svgoudar&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=svgoudar&theme=radical)
 
 ---
-
-## 🚀 Projects
-- [🔗 Django E-Commerce](https://github.com/YOURUSERNAME/django-ecommerce) – Full-stack app with payment integration  
-- [🔗 ML Model Deployment](https://github.com/YOURUSERNAME/ml-deployment) – Deploy ML model on AWS with Flask  
-- [🔗 Data Dashboard](https://github.com/YOURUSERNAME/data-dashboard) – Interactive dashboard using Django + SQL  
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOURPROFILE)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sanjeev-v-goudar)  
