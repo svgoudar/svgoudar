@@ -22,11 +22,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svgoudar&layout=compact&theme=radical)
 
 ## 📊 GitHub Articles
-![Learn ML and NLP](https://svgoudar.github.io/Learn-ML-and-NLP/introduction.html) 📝
+[Learn ML and NLP](https://svgoudar.github.io/Learn-ML-and-NLP/introduction.html)
 
 ---
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sanjeev-v-goudar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)dfdsfd](https://linkedin.com/in/sanjeev-v-goudar)  
