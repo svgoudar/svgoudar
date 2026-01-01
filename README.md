@@ -18,17 +18,17 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=svgoudar)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svgoudar)
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=svgoudar)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svgoudar)
 
 ## 📊 My GitHub Articles
-![Learn DSA](https://svgoudar.github.io/DSA_PREP/)
-![Learn ML Foundation](https://svgoudar.github.io/ML_Foundation_Handbook)  
-![Learn ML and NLP](https://svgoudar.github.io/Learn-ML-and-NLP)
-![Learn Deep Learning](https://svgoudar.github.io/Learn-DeepLearning/)
-![Learn Gen AI](https://github.com/svgoudar/Learn-Generative-AI)
-![Learn Langchain](https://svgoudar.github.io/langchain_tutorial)
-![Learn LangGraph](https://svgoudar.github.io/Learn-LangGraph)
+- ![Learn DSA](https://svgoudar.github.io/DSA_PREP/)
+- ![Learn ML Foundation](https://svgoudar.github.io/ML_Foundation_Handbook)  
+- ![Learn ML and NLP](https://svgoudar.github.io/Learn-ML-and-NLP)
+- ![Learn Deep Learning](https://svgoudar.github.io/Learn-DeepLearning/)
+- ![Learn Gen AI](https://github.com/svgoudar/Learn-Generative-AI)
+- ![Learn Langchain](https://svgoudar.github.io/langchain_tutorial)
+- ![Learn LangGraph](https://svgoudar.github.io/Learn-LangGraph)
 
 
 ---
