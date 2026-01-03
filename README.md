@@ -1,6 +1,6 @@
 # Hi, I'm _Sanjeev V Goudar_ 👋
 
-💻 **Python Developer | Django Developer | Cloud & AI Enthusiast**  
+💻 **Python Developer | Django Developer | AI/ML Engineering**  
 
 🔹 Skilled in Django, Python, AWS, SQL, MongoDB, Machine Learning  
 🔹 Passionate about building Machine Learning and AI models  
