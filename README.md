@@ -31,6 +31,26 @@
 - [Learn LangGraph](https://svgoudar.github.io/Learn-LangGraph)
 
 
+## My Lookouts
+- [Medium Blog](https://medium.com/)
+- [KDNuggets](https://www.kdnuggets.com/)
+- [Kaggle Blogs](https://www.kaggle.com/blog?sort=hotness)
+- [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
+- [Reddit AI](https://www.reddit.com/r/ArtificialInteligence/)
+- [Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/)
+- [Reddit Deep Learning](https://www.reddit.com/r/deeplearning/)
+- [X Yann Lecun](https://x.com/ylecun?s=20)
+- [X Russ](https://x.com/rsalakhu)
+- [X Andrej Karpathy](https://x.com/karpathy)
+- [X Hugo Larochelle](https://x.com/hugo_larochelle)
+- [X Ian Goodfellow](https://x.com/goodfellow_ian)
+- [X Fei-Fei Li](https://x.com/drfeifei)
+- [X Soumith Chintala](https://x.com/soumithchintala)
+- [X Nando de Freitas](https://x.com/nandodf)
+- [X Jeff Dean](https://x.com/jeffdean)
+- [X François Chollet](https://x.com/fchollet)
+- [Papers and Code](https://huggingface.co/datasets/pwc-archive/links-between-paper-and-code/viewer/default/train)
+
 ---
 
 ## 📫 Connect with Me
