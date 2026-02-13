@@ -50,6 +50,13 @@
 - [X Jeff Dean](https://x.com/jeffdean)
 - [X François Chollet](https://x.com/fchollet)
 - [Papers and Code](https://huggingface.co/datasets/pwc-archive/links-between-paper-and-code/viewer/default/train)
+- [Deep Learning AI](https://www.deeplearning.ai/the-batch/)
+- [IBM research](https://research.ibm.com/blog)
+- [Fast AI](https://www.fast.ai/)
+- [AI Techreview](https://www.technologyreview.com/ai/)
+- [AI Venture Beat](https://venturebeat.com/ai)
+- [Tecnology Review](https://www.technologyreview.com/newsletter-preferences/)
+- [ARX Articles](https://arxiv.org/)
 
 ---
 
